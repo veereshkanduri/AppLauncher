@@ -1,0 +1,32 @@
+[
+    {
+       "make": "Toyota",
+       "model": "Celica",
+       "price": 35000
+    },
+    {
+       "make": "Ford",
+       "model": "Mondeo",
+       "price": 32000
+    },
+    {
+       "make": "Porsche",
+       "model": "Boxter",
+       "price": 72000
+    },
+    {
+       "make": "Honda",
+       "model": "Hero",
+       "price": 2000
+    },
+    {
+       "make": "Bajaj",
+       "model": "Tata",
+       "price": 9000
+    },
+    {
+       "make": "Splender",
+       "model": "Camary",
+       "price": 10000
+    }
+ ]

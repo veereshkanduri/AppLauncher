@@ -1,0 +1,32 @@
+[
+    {
+       "make2": "Toyota",
+       "model2": "Celica",
+       "price2": 35000
+    },
+    {
+       "make2": "Ford",
+       "model2": "Mondeo",
+       "price2": 32000
+    },
+    {
+       "make2": "Porsche",
+       "model2": "Boxter",
+       "price2": 72000
+    },
+    {
+       "make2": "Honda",
+       "model2": "Hero",
+       "price2": 2000
+    },
+    {
+       "make2": "Bajaj",
+       "model2": "Tata",
+       "price2": 9000
+    },
+    {
+       "make2": "Splender",
+       "model2": "Camary",
+       "price2": 10000
+    }
+ ]
